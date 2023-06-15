@@ -1,0 +1,16 @@
+button.task_button{
+    font-size: 30px;
+    height: 40px;
+}
+
+input.task_input{
+    font-size: 30px;
+    height: 40px;
+    width: 500px;
+}
+
+button.remove_task{
+    height: 35px;
+    margin-left: 4px
+}
+

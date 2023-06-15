@@ -1,0 +1,18 @@
+.character_card{
+    background-color: #ad7d37;
+    padding:5px;
+    border-radius: 15px;
+    margin: 10px;
+}
+
+.character_card h1{
+    color: #381010
+}
+
+.character_card ul{
+    list-style: none;
+}
+
+.character_list{
+    list-style: none;
+}
